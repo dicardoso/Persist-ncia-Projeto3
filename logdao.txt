@@ -1,0 +1,3 @@
+21:02:38,018  INFO DAO:53 - processando a unidade de persistencia: eclipselink-postgres
+21:02:38,027  INFO DAO:66 - url= jdbc:postgresql://localhost:5432/projeto3
+21:02:38,169 DEBUG logging:38 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
